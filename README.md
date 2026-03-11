@@ -4,7 +4,7 @@
 I am a **2nd Year Computer Science** student at **Linnaeus University**, currently based in **Stockholm**. I’m a builder at heart, focused on creating **scalable backend systems** and **data-driven financial solutions**.
 
 - 🎓 Currently studying **B.Sc. in Computer Science (Software Engineering)**
-- 🔭 Working on **Student Finance Forecaster (FinTech)** and a **Commercial Restaurant System**
+- 🔭 Working on **Student Finance Forecaster (FinTech)** and a [**Commercial Restaurant System**](https://nehumeow.github.io/Restaurant-ordering-system/)
 - 🇸🇪 Seeking **Summer 2026 Internship opportunities** in Stockholm (Backend, Data, & Cloud)
 
 ---
